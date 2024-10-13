@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 # Abhishek Yadav
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abhishek-yadav007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abhishek-yadav007) 
 
-## About Me
+## 👨‍💻 About Me
 I'm a Full Stack Developer with a passion for building responsive web applications and a strong background in Android Native development. I hold a BE in Computer Science and Engineering from Ramaiah Institute of Technology. My expertise includes Java, Python, and various web development frameworks.
 
-## Skills
+## 🛠️ Skills
 - **Languages:** Java, Python, Dart, JavaScript, HTML, CSS, C, C++
 - **Frameworks:** React.js, React Native, Node.js, Express, Next.js, Spring
 - **Databases:** SQL, MongoDB, GraphQL
@@ -29,7 +29,7 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 - **Certifications:** React.js, JavaScript, Python
 - **Concepts:** RESTful APIs, OOP, Performance Optimization, Responsive Web Design
 
-## Experience
+## 💼 Experience
 ### Mphasis (Feb 2024 – May 2024)
 *Java Full Stack Developer*
 - Implemented server-side logic using Java, Spring, and Hibernate.
@@ -43,7 +43,7 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 *Intern*
 - Developed a Full Stack e-commerce platform ensuring cross-browser/device compatibility.
 
-## Projects
+## 🚀 Projects
 ### MARLGRID
 - Developed reinforcement learning agents in MiniGrid and OpenAI GYM, increasing agent performance by 40% and reducing training time by 25%.
 - Created a visualization tool for performance tracking and added a game-based UI feature.
@@ -52,9 +52,9 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 - Developed a fully responsive e-commerce website template using HTML, CSS, JavaScript, and Bootstrap.
 - Implemented continuous delivery with Travis-CI.
 
-## Contact
+## 📫 Contact
 - **Location:** Bengaluru, Karnataka
 - **Phone:** +91 8601799043
-- **Email:** monuy8830@gmail.com
+- **Email:** [monuy8830@gmail.com](mailto:monuy8830@gmail.com)
 
 Feel free to connect with me or check out my projects!
