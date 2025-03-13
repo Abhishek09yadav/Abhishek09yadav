@@ -53,7 +53,7 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 ### Shopsy
 - Developed a fully responsive e-commerce website template using HTML, CSS, JavaScript, and Bootstrap.
 - Implemented continuous delivery with Travis-CI.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek09yadav)](https://git.io/streak-stats)
 ## 📫 Contact
 - **Location:** Bengaluru, Karnataka
 - **Phone:** +91 8601799043
