@@ -30,6 +30,7 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 - **Certifications:** React.js, JavaScript, Python
 - **Concepts:** RESTful APIs, OOP, Performance Optimization, Responsive Web Design
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek09yadav&theme=dark)](https://git.io/streak-stats)
 
 ## 💼 Experience
 ### Mphasis (Feb 2024 – May 2024)
@@ -53,7 +54,6 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 ### Shopsy
 - Developed a fully responsive e-commerce website template using HTML, CSS, JavaScript, and Bootstrap.
 - Implemented continuous delivery with Travis-CI.
-[![GitHub Streak](https://readme-streak-stats.herokuapp.com?user=Abhishek09yadav&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Contact
 - **Location:** Bengaluru, Karnataka
