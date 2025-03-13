@@ -30,7 +30,7 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 - **Certifications:** React.js, JavaScript, Python
 - **Concepts:** RESTful APIs, OOP, Performance Optimization, Responsive Web Design
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Abhishek09yadav=DenverCoder1)](https://git.io/streak-stats)
 
 
 ## 💼 Experience
