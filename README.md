@@ -22,13 +22,5 @@ Here are some ideas to get you started:
 I'm a Full Stack Developer with a passion for building responsive web applications and a strong background in Android Native development. I hold a BE in Computer Science and Engineering from Ramaiah Institute of Technology. My expertise includes Java, Python, and various web development frameworks.
 
 
-## 🛠️ Skills
-- **Languages:** Java, Python, Dart, JavaScript, HTML, CSS, C, C++
-- **Frameworks:** React.js, React Native, Node.js, Express, Next.js, Spring
-- **Databases:** SQL, MongoDB, GraphQL
-- **Tools:** Git, Postman, Docker, Figma, Android Studio
-- **Certifications:** React.js, JavaScript, Python
-- **Concepts:** RESTful APIs, OOP, Performance Optimization, Responsive Web Design
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek09yadav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
