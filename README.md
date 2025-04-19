@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek09yadav&" alt="abhishek09yadav" /></p>
 
-<p><img src="https://raw.githubusercontent.com/Abhishek09yadav/Abhishek09yadav/output/snake.svg" alt="Snake animation" /></p>
+![Snake animation](https://raw.githubusercontent.com/Abhishek09yadav/Abhishek09yadav/output/github-contribution-grid-snake-dark.svg)
