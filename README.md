@@ -32,32 +32,3 @@ I'm a Full Stack Developer with a passion for building responsive web applicatio
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek09yadav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-## 💼 Experience
-### Mphasis (Feb 2024 – May 2024)
-*Java Full Stack Developer*
-- Implemented server-side logic using Java, Spring, and Hibernate.
-- Developed RESTful web services and conducted unit testing with JUnit.
-
-### Istakapaza (Apr 2023 – Feb 2024)
-*Web Developer*
-- Led front-end development of a marketplace, enhancing mobile accessibility and transaction volume.
-
-### SkillVertex (Sept 2021 – Nov 2021)
-*Intern*
-- Developed a Full Stack e-commerce platform ensuring cross-browser/device compatibility.
-
-## 🚀 Projects
-### MARLGRID
-- Developed reinforcement learning agents in MiniGrid and OpenAI GYM, increasing agent performance by 40% and reducing training time by 25%.
-- Created a visualization tool for performance tracking and added a game-based UI feature.
-
-### Shopsy
-- Developed a fully responsive e-commerce website template using HTML, CSS, JavaScript, and Bootstrap.
-- Implemented continuous delivery with Travis-CI.
-
-## 📫 Contact
-- **Location:** Bengaluru, Karnataka
-- **Phone:** +91 8601799043
-- **Email:** [monuy8830@gmail.com](mailto:monuy8830@gmail.com)
-
-Feel free to connect with me or check out my projects!
