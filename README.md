@@ -31,5 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek09yadav&" alt="abhishek09yadav" /></p>
 
-![snake gif](https://github.com/Abhishek09yadav/Abhishek09yadav/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Contribution Snake
+![snake svg](https://github.com/Abhishek09yadav/Abhishek09yadav/blob/output/github-contribution-grid-snake.svg)
+
 
